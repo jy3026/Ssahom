@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+  <row>
+    <id>0</id>
+    <name>흑수정</name>
+    <index>0</index>
+    <count>0</count>
+  </row>
+  <row>
+    <id>1</id>
+    <name>자수정</name>
+    <index>0</index>
+    <count>3</count>
+  </row>
+  <row>
+    <id>2</id>
+    <name>강철</name>
+    <index>0</index>
+    <count>4</count>
+  </row>
+  <row>
+    <id>3</id>
+    <name>청동</name>
+    <index>0</index>
+    <count>3</count>
+  </row>
+  <row>
+    <id>4</id>
+    <name>검의 조각</name>
+    <index>1</index>
+    <count>0</count>
+  </row>
+  <row>
+    <id>5</id>
+    <name>활의 조각</name>
+    <index>1</index>
+    <count>6</count>
+  </row>
+  <row>
+    <id>6</id>
+    <name>방패의 조각</name>
+    <index>1</index>
+    <count>1</count>
+  </row>
+  <row>
+    <id>7</id>
+    <name>지팡이의 조각</name>
+    <index>1</index>
+    <count>0</count>
+  </row>
+  <row>
+    <id>8</id>
+    <name>유형 : 공격형</name>
+    <index>2</index>
+    <count>1</count>
+  </row>
+  <row>
+    <id>9</id>
+    <name>유형 : 버프형</name>
+    <index>2</index>
+    <count>4</count>
+  </row>
+</rows>

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Choi/Scenes/Play.unity
+    guid: 567b4ece728dca74885415a0d807de25
+  - enabled: 1
+    path: Assets/kang/Assets/Scenes/GameScene.unity
+    guid: 7de629cf7cd67f744b7ac89df787fa97
+  - enabled: 1
+    path: Assets/kang/Assets/Scenes/GachaScene.unity
+    guid: ece62e32875641f49b8e866d99c5ea24
+  - enabled: 1
+    path: Assets/kang/Assets/Scenes/GachaSceneII.unity
+    guid: 0f1f50928a3f01949b240883e2cbfb6e
+  - enabled: 1
+    path: Assets/kang/Assets/Scenes/MixScene.unity
+    guid: efbb53e75dc79794fbe3b6d1a98487e7
+  - enabled: 1
+    path: Assets/kang/Assets/Scenes/CharacterInfoScene.unity
+    guid: 41fc93d981d422a4ebc63a1936bda953
+  - enabled: 1
+    path: Assets/kang/Assets/Scenes/CharaterStatScene.unity
+    guid: 8a84fec0991f7d240b650bf737d377e7
+  - enabled: 0
+    path: Assets/kang/Assets/Scenes/CharaterStatScene1.unity
+    guid: 2d95dfe11e5ac1a46a9d75f42961d2b0
+  - enabled: 1
+    path: Assets/Ahn/Scenes/Stage.unity
+    guid: 67f2709d2cf765240abd29c5b5ec33d6
+  - enabled: 1
+    path: Assets/Ahn/Scenes/Loading.unity
+    guid: 0ad2882b1de9e184c98c6c97c1842d14
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: ebea81431b03a184fbe604feb95c738a
+  - enabled: 0
+    path: Assets/Scenes/Stage11.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Stage2.unity
+    guid: a544a988a12b9d446899344203389380
+  m_configObjects: {}

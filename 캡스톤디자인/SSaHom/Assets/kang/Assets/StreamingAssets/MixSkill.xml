@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+  <row>
+    <U_skillindex>0</U_skillindex>
+    <U_skillname>
+    </U_skillname>
+    <U_skilltext>도술을 장착해주세요.</U_skilltext>
+    <U_skillcalc>
+    </U_skillcalc>
+    <U_skillmix1>
+    </U_skillmix1>
+    <U_skillmix2>
+    </U_skillmix2>
+    <U_skillmix3>
+    </U_skillmix3>
+    <count>
+    </count>
+  </row>
+  <row>
+    <U_skillindex>1</U_skillindex>
+    <U_skillname>흑공검</U_skillname>
+    <U_skilltext>흑수정의 힘을 빌려 검으로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>흑수정</U_skillmix1>
+    <U_skillmix2>검</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>1</count>
+  </row>
+  <row>
+    <U_skillindex>2</U_skillindex>
+    <U_skillname>흑사검</U_skillname>
+    <U_skilltext>흑수정의 힘으로 근력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>흑수정</U_skillmix1>
+    <U_skillmix2>검</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>3</U_skillindex>
+    <U_skillname>자공검</U_skillname>
+    <U_skilltext>자수정의 힘을 빌려 검으로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>자수정</U_skillmix1>
+    <U_skillmix2>검</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>4</U_skillindex>
+    <U_skillname>자사검</U_skillname>
+    <U_skilltext>자수정의 힘으로 지력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>자수정</U_skillmix1>
+    <U_skillmix2>검</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>5</U_skillindex>
+    <U_skillname>강공검</U_skillname>
+    <U_skilltext>강철의 힘을 빌려 검으로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>강철</U_skillmix1>
+    <U_skillmix2>검</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>6</U_skillindex>
+    <U_skillname>강사검</U_skillname>
+    <U_skilltext>강철의 힘으로 마력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>강철</U_skillmix1>
+    <U_skillmix2>검</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>7</U_skillindex>
+    <U_skillname>청공검</U_skillname>
+    <U_skilltext>청동의 힘을 빌려 검으로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>청동</U_skillmix1>
+    <U_skillmix2>검</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>8</U_skillindex>
+    <U_skillname>청사검</U_skillname>
+    <U_skilltext>청동의 힘으로 체력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>청동</U_skillmix1>
+    <U_skillmix2>검</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>9</U_skillindex>
+    <U_skillname>흑공활</U_skillname>
+    <U_skilltext>흑수정의 힘을 빌려 활으로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>흑수정</U_skillmix1>
+    <U_skillmix2>활</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>10</U_skillindex>
+    <U_skillname>흑사활</U_skillname>
+    <U_skilltext>흑수정의 힘으로 근력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>흑수정</U_skillmix1>
+    <U_skillmix2>활</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>11</U_skillindex>
+    <U_skillname>자공활</U_skillname>
+    <U_skilltext>자수정의 힘을 빌려 활으로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>자수정</U_skillmix1>
+    <U_skillmix2>활</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>12</U_skillindex>
+    <U_skillname>자사활</U_skillname>
+    <U_skilltext>자수정의 힘으로 지력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>자수정</U_skillmix1>
+    <U_skillmix2>활</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>13</U_skillindex>
+    <U_skillname>강공활</U_skillname>
+    <U_skilltext>강철의 힘을 빌려 활으로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>강철</U_skillmix1>
+    <U_skillmix2>활</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>14</U_skillindex>
+    <U_skillname>강사활</U_skillname>
+    <U_skilltext>강철의 힘으로 마력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>강철</U_skillmix1>
+    <U_skillmix2>활</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>15</U_skillindex>
+    <U_skillname>청공활</U_skillname>
+    <U_skilltext>청동의 힘을 빌려 활으로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>청동</U_skillmix1>
+    <U_skillmix2>활</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>16</U_skillindex>
+    <U_skillname>청사활</U_skillname>
+    <U_skilltext>청동의 힘으로 체력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>청동</U_skillmix1>
+    <U_skillmix2>활</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>17</U_skillindex>
+    <U_skillname>흑공방</U_skillname>
+    <U_skilltext>흑수정의 힘을 빌려 방패로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>흑수정</U_skillmix1>
+    <U_skillmix2>방패</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>18</U_skillindex>
+    <U_skillname>흑사방</U_skillname>
+    <U_skilltext>흑수정의 힘으로 근력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>흑수정</U_skillmix1>
+    <U_skillmix2>방패</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>1</count>
+  </row>
+  <row>
+    <U_skillindex>19</U_skillindex>
+    <U_skillname>자공방</U_skillname>
+    <U_skilltext>자수정의 힘을 빌려 방패로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>자수정</U_skillmix1>
+    <U_skillmix2>방패</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>20</U_skillindex>
+    <U_skillname>자사방</U_skillname>
+    <U_skilltext>자수정의 힘으로 지력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>자수정</U_skillmix1>
+    <U_skillmix2>방패</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>21</U_skillindex>
+    <U_skillname>강공방</U_skillname>
+    <U_skilltext>강철의 힘을 빌려 방패로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>강철</U_skillmix1>
+    <U_skillmix2>방패</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>22</U_skillindex>
+    <U_skillname>강사방</U_skillname>
+    <U_skilltext>강철의 힘으로 마력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>강철</U_skillmix1>
+    <U_skillmix2>방패</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>23</U_skillindex>
+    <U_skillname>청공방</U_skillname>
+    <U_skilltext>청동의 힘을 빌려 방패로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>청동</U_skillmix1>
+    <U_skillmix2>방패</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>24</U_skillindex>
+    <U_skillname>청사방</U_skillname>
+    <U_skilltext>청동의 힘으로 체력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>청동</U_skillmix1>
+    <U_skillmix2>방패</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>25</U_skillindex>
+    <U_skillname>흑공지</U_skillname>
+    <U_skilltext>흑수정의 힘을 빌려 지팡이로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>흑수정</U_skillmix1>
+    <U_skillmix2>지팡이</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>26</U_skillindex>
+    <U_skillname>흑사지</U_skillname>
+    <U_skilltext>흑수정의 힘으로 근력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>흑수정</U_skillmix1>
+    <U_skillmix2>지팡이</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>27</U_skillindex>
+    <U_skillname>자공지</U_skillname>
+    <U_skilltext>자수정의 힘을 빌려 지팡이로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>자수정</U_skillmix1>
+    <U_skillmix2>지팡이</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>28</U_skillindex>
+    <U_skillname>자사지</U_skillname>
+    <U_skilltext>자수정의 힘으로 지력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>자수정</U_skillmix1>
+    <U_skillmix2>지팡이</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>29</U_skillindex>
+    <U_skillname>강공지</U_skillname>
+    <U_skilltext>강철의 힘을 빌려 지팡이로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>강철</U_skillmix1>
+    <U_skillmix2>지팡이</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>30</U_skillindex>
+    <U_skillname>강사지</U_skillname>
+    <U_skilltext>강철의 힘으로 마력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>강철</U_skillmix1>
+    <U_skillmix2>지팡이</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>31</U_skillindex>
+    <U_skillname>청공지</U_skillname>
+    <U_skilltext>청동의 힘을 빌려 지팡이로 공격한다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>청동</U_skillmix1>
+    <U_skillmix2>지팡이</U_skillmix2>
+    <U_skillmix3>해</U_skillmix3>
+    <count>0</count>
+  </row>
+  <row>
+    <U_skillindex>32</U_skillindex>
+    <U_skillname>청사지</U_skillname>
+    <U_skilltext>청동의 힘으로 체력을 높여준다.</U_skilltext>
+    <U_skillcalc>0</U_skillcalc>
+    <U_skillmix1>청동</U_skillmix1>
+    <U_skillmix2>지팡이</U_skillmix2>
+    <U_skillmix3>달</U_skillmix3>
+    <count>0</count>
+  </row>
+</rows>
