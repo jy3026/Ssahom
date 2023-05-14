@@ -1,7 +1,7 @@
-# SsaHom
+# 싸홈
 
 <div align="center">
-![image](https://github.com/jy3026/Ssahom/assets/89833446/cb5c407e-ee4b-4b6f-9edf-871f44921c93)
+![그림01](https://github.com/jy3026/Ssahom/assets/89833446/95c83dd6-5bb9-4e0c-846d-fc8d2c88ca69)
 
 
 
