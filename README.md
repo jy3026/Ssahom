@@ -1,8 +1,7 @@
 # 싸홈
 
 <div align="center">
-![그림01](https://github.com/jy3026/Ssahom/assets/89833446/95c83dd6-5bb9-4e0c-846d-fc8d2c88ca69)
-
+<img width="80%" src="https://github.com/jy3026/Ssahom/assets/89833446/95c83dd6-5bb9-4e0c-846d-fc8d2c88ca69"/>
 
 
 </div>
