@@ -2,8 +2,6 @@
 
 <div align="center">
 <img width="160px" src="https://github.com/jy3026/Ssahom/assets/89833446/95c83dd6-5bb9-4e0c-846d-fc8d2c88ca69"/>
-
-
 </div>
 
 # SsaHom
@@ -18,7 +16,7 @@
 
 |      안찬양       |        강대현           |       최진영         |                                                                                                               
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img width="160px" src="https://user-images.githubusercontent.com/50205887/205326013-af001243-a77d-4601-8bfc-aa713931cf95.png" />    |                      <img width="160px" src="https://user-images.githubusercontent.com/50205887/207570536-f5a82e48-99a1-4399-91d3-75fc5f8f3349.png" />    |                   <img width="160px" src="https://user-images.githubusercontent.com/50205887/207570634-247c3715-a54e-4f63-8c08-9b266f8a35f7.png"/>   |
+|   <img width="160px" src="https://github.com/jy3026/Ssahom/assets/89833446/20e529d9-1ffd-4841-93c6-9bb5d3aa44c6" />    |                      <img width="160px" src="https://github.com/jy3026/Ssahom/assets/89833446/c4fc6e61-8201-4b43-bf67-7b31d030535d" />    |                   <img width="160px" src="https://github.com/jy3026/Ssahom/assets/89833446/9095fb53-9d4f-4413-9d04-fd50fa4ec12a"/>   |
 |   [@parkjiye](https://github.com/parkjiye)   |    [@ChaeyeonSeo](https://github.com/ChaeyeonSeo)  | [@hyunjeong408](https://github.com/hyunjeong408)  |
 | 성균관대학교 소프트웨어학과 4학년 | 성균관대학교 소프트웨어학과 4학년 | 성균관대학교 소프트웨어학과 4학년 |
 
