@@ -4,7 +4,6 @@
 <img width="160px" src="https://github.com/jy3026/Ssahom/assets/89833446/95c83dd6-5bb9-4e0c-846d-fc8d2c88ca69"/>
 </div>
 
-# SsaHom
 > **성공회대학교 컴퓨터공학과 3인** <br/> **개발기간: 2022.03 ~ 2022.10**<br/>
 > **제 13회 IT & 미디어컨텐츠 경진대회 IT 부문 입상**<br/>
 > [수상정보](https://www.skhu.ac.kr/skhu/944/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc2todSUyRjM5JTJGNTE2MDElMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0RBTEwlMjZzcmNoV3JkJTNEJUVBJUIyJUJEJUVDJUE3JTg0JUVCJThDJTgwJUVEJTlBJThDJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2)
